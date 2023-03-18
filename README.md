@@ -23,29 +23,16 @@ Here are a few things you can expect from our blog:
 Thanks for visiting High on Bugs!. We hope you enjoy our content and find it helpful in your own technical journey!
 
 
-<h2>📌 <ins>Who is this Community for?</ins></h2>
-<p>
-    ⭐ Anyone who wants to meet new friends and business contacts outside of their normal circle, wants to learn programming or just wants a chill space to relax and have fun! <br>
-    ⭐ A brief perspective of members in our Community: <br> 
-<!-- <p style="text-indent: 200px"> -->
-    <ul>
-        ✨ Students from more than 30+ countries <br> 
-        ✨ Mentors helping and guiding students with their experience <br> 
-        ✨ Working professionals or job seekers <br>
-        ✨ Recruiters looking for interns or junior/senior developers <br>
-     </ul>
-    ⭐ Domains of Interest:
-    <ul>        
-        &nbsp;📱 &nbsp;App Development <br> 
-        🖥️ Web Development <br> 
-        🎨 UI/UX Development <br> 
-        🎮 Game Development <br> 
-        ☁  Cloud Development <br> 
-        🧠 Machine Learning and AI <br> 
-        🔗 Blockchain/Crypto <br> 
-        🤖 IoT/Embedded <br> 
-    </ul>
-</p>
+## Target
+
+At High on Bugs!, we believe that technology is for everyone. Whether you're just starting out or have been working in the tech industry for years, we aim to provide content that is valuable, informative, and accessible to all.
+
+While we do focus on beginner-friendly content, we recognize that some of our readers may be more experienced in certain areas. As such, we plan to publish a range of articles that cover a variety of topics and skill levels, from basic concepts to advanced techniques.
+
+We are committed to creating an inclusive and welcoming community that values diversity and encourages exploration and growth. We believe that everyone has the potential to learn and excel in the tech industry, and we are here to support and guide you along the way.
+
+So whether you're a student, a professional, or simply someone with a passion for technology, we welcome you to join our community. Together, we can learn, grow, and achieve great things!
+
     
 
 <h2>📌 <ins>What are the perks of being a part of the Community?</ins></h2>
