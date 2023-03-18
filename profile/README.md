@@ -37,7 +37,7 @@ So whether you're a student, a professional, or simply someone with a passion fo
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
-# 📌 About Me
+## 📌 About Me
 
 Hello, I'm Saptarshi. From India 🇮🇳. My interests include thinking about stuff and building them. In my free time, I enjoy playing cs and my guitars.
 
