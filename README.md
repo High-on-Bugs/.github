@@ -5,12 +5,22 @@
 </div>
 
 
-<h2>📌 <ins>About Us</ins></h2>
-<p>
-    ⭐ <b>3 C's</b> of our Community: Connect, Collaborate and Create! <br>
-    ⭐ We are an open <b>Learning Community</b> dedicated towards developers across the world! <br>
-    ⭐ We are a community of <b>10k+ Developers</b> from across the world and use <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> as our primary platform for interaction! <br>
-</p>
+## 📌 About High on Bugs!
+
+At High on Bugs!, we are passionate about all things technical. Our blog is dedicated to sharing our knowledge and experience with others who share our love of web development, machine learning, and other related topics.
+
+Our mission is to provide valuable insights and practical tips that help our readers become better developers and stay up-to-date on the latest industry trends. We believe in making technical content accessible to everyone, regardless of their skill level or experience.
+
+Whether you're a seasoned developer or just starting out, we have something for everyone. So grab a cup of coffee, sit back, and join us on a journey through the fascinating world of technology!
+
+Here are a few things you can expect from our blog:
+
+- In-depth tutorials that cover a wide range of topics, from RESTful web services to machine learning algorithms
+- Thought-provoking articles that explore the latest trends and developments in the world of web development
+- Practical tips and tricks that will help you improve your coding skills and work more efficiently
+- Engaging content that is easy to read and understand, even for beginners
+
+Thanks for visiting High on Bugs!. We hope you enjoy our content and find it helpful in your own technical journey!
 
 
 <h2>📌 <ins>Who is this Community for?</ins></h2>
