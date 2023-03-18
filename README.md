@@ -39,7 +39,7 @@ So whether you're a student, a professional, or simply someone with a passion fo
 
 # 📌 About Me
 
-Hello, I'm Saptarshi. From India🇮🇳. My interests include thinking about stuff and building them. In my free time, I enjoy playing cs and my guitars.
+Hello, I'm Saptarshi. From India 🇮🇳. My interests include thinking about stuff and building them. In my free time, I enjoy playing cs and my guitars.
 
 📱 In case of any question, query, doubt, or complaint please feel free to reach out to me using the contact details provided below.
 
