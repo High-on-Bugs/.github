@@ -23,7 +23,7 @@ Here are a few things you can expect from our blog:
 Thanks for visiting High on Bugs!. We hope you enjoy our content and find it helpful in your own technical journey!
 
 
-## Target
+## 📌 Target
 
 At High on Bugs!, we believe that technology is for everyone. Whether you're just starting out or have been working in the tech industry for years, we aim to provide content that is valuable, informative, and accessible to all.
 
@@ -34,91 +34,22 @@ We are committed to creating an inclusive and welcoming community that values di
 So whether you're a student, a professional, or simply someone with a passion for technology, we welcome you to join our community. Together, we can learn, grow, and achieve great things!
 
     
+# 📌 About Me
 
-<h2>📌 <ins>What are the perks of being a part of the Community?</ins></h2>
-<p>
-    ⭐ Share your work, get advice and collaborate with a large diverse group! <br> 
-    ⭐ Grow your connection and meet new friends and business contacts outside of your normal circle! <br> 
-    ⭐ Seek professional development opportunities, get guidance, motivation and emotional support from the mentors! <br> 
-    ⭐ Organize events and talks, share your voice and opinions, and in turn develop your personality and improve your soft speaking skills! <br><br> 
-    <h3>🔥 <ins>EXCLUSIVE PERKS:</ins></h3>
-    🚀 <b><ins>CAREER GROWTH</ins></b>: A complete section dedicated to connect with recruiters, discuss higher education, A-Z resources & career guidance. <br>
-    🚀 <b><ins>KAGGLER's</ins></b>: A separate section to discuss, collaborate and share your work with others along with exclusive server <b>Kaggle Roles</b>! <br>
-    🚀 <b><ins>GLOBAL UPDATES</ins></b>: Get updates on all major global Events, Workshops, Internships, Jobs, Scholarships, Hackathons, etc. across the world! <br>
-    🚀 <b><ins>STUDY GROUPS</ins></b>: Master skills like C++, Python, Java, DSA, Web-Dev, Data Science, and ML/AI! <br>
-    🚀 <b><ins>SWAGS & GOODIES</ins></b>: Chance to earn goodies by being active in the community, winning any contests or tournaments! <br>
-    🚀 <b><ins>24/7 ACTIVE CHAT</ins></b>: Music and Fun Bots & Games channel, Movie Nights on weekends, trivia, and fun quizzes daily! <br>
-</p>
+Hello, I'm Saptarshi. From India. 😬 My interests include thinking about stuff and building them. In my free time, I enjoy playing cs and my guitars.
 
+In case of any question, query, doubt, or complaint please feel free to reach out to me using the contact details provided below.
 
-<h2>📌 <ins>Do I have to pay something for being a part of this Community?</ins></h2>
-<p>
-    ⭐ No, you don't have to pay a single penny for being a part of the community. We are a Community open to all and we welcome you all to join us and be an active part of our Community 🥳🥳
-</p>
-
-
-<h2>📌 <ins>How do I join and become a part of <a href="https://devs-dungeon.github.io/bio/">DEVs Dungeon Community</a>?</ins></h2>
-<p>
-    ⭐ Join us on <b><a href="https://chat.whatsapp.com/Cr0Yy2gWtGxFCDYIRh1iuZ">WhatsApp</a></b> to interact with 5k+ Developers onboard! <br>
-    ⭐ Join us on <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> to interact with 10k+ Developers onboard! <br>
-    ⭐ Join our <b><a href="https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">GitHub Organization</a></b> to collaborate and contribute towards our Community projects! <br>
-</p>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
     
-<h2 align="center"> 🔗 Connect with Us </h2>
+<h2 align="center"> 🔗 Connect with Me </h2>
     
-[<img alt="DEVs Dungeon | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:devs.dungeon.community@gmail.com)
-    [<img alt="DEVs Dungeon | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/company/devs-dungeon/)
-    [<img alt="DEVs Dungeon | Facebook" width="100px" src="https://img.shields.io/badge/-Facebook-000000?logo=facebook&Color=0A66C2&style=flat-square" />](https://www.facebook.com/devs.dungeon/)
-    [<img alt="DEVs Dungeon | Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-000000?logo=instagram&Color=0A66C2&style=flat-square" />](https://www.instagram.com/devs.dungeon/)
-    [<img alt="DEVs Dungeon | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/devs_dungeon)
+[<img alt="SBK | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:bhattacharyasaptarshi2001@gmail.com)
+    [<img alt="SBK | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/in/sbk2k1/)
+    [<img alt="SBK | Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-000000?logo=instagram&Color=0A66C2&style=flat-square" />](https://www.instagram.com/sbk_2k1/)
+    [<img alt="SBK | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/sbk_2k1)
     
 </div>
-
-
-<!-- We have developers from every domain (Web-Dev, App-Dev, ML/AI, Cloud-Dev, Game-Dev, UI/UX, etc.)  who are either looking for <b>jobs, internships</b> or want to <b>grow</b> in their field of interest. Here are some of the awesome thing you will find:
-</p>
-
-:one: **Active Community** that rewards **swags :gift:, game pass :video_game:, course coupons :tickets:** etc. based on your server activity!
-
-:two: Learn together & grow your skills with our **Community Members & Mentors** daily :alarm_clock: 
-
-:three: **4.3k+ Members Community** to collaborate on various projects, hackathons, research papers, etc. :person_running: 
-
-:four: **Weekly Live Sessions & Fun Contests** to learn & grow together :muscle: 
-
-:five: Tons of paid **Internship/Job Opportunities** in both tech & non-tech domains :briefcase: 
-
-:six: Get a chance of **"Personal Mentorship"** from Industry Professionals in your field of interest!
-
-<p align = "center">
-:book: Collaborate on <b>Open-source Projects</b>  <br>
-:sos: <b>Mentors</b> to help in your Domain <b>24/7</b>  <br>
-:free: Free <b>Udemy</b> & other Courses Coupons  <br>
-:man_technologist: Separate <b>Kaggle/Codechef</b> Community<br>
-</p>
-
-<h2 align="center"> Domains: </h3>
-<p align = "center">
-:globe_with_meridians: Web Development  <br>
-:cloud: Cloud Development  <br>
-📱 Android Development  <br>
-:computer: Competitive Programming/DSA  <br>
-:robot: Machine Learning/Data Science  <br>
-:heavy_dollar_sign:  Blockchain Development/Cryptocurrency  <br>
-</p>
-
-<h2 align="center"> Global News & Information: </h3>
-<p align = "center">
-:ticket: Global Events, Workshops & Bootcamps Updates  <br>
-:trophy: Global Hackathons, Competitions & Free Swags Updates <br>
-:briefcase: Global Jobs, Internships, Scholarships & Referral Updates  <br>
-:fire: Global International, Sports, Science & Tech News  <br>
-</p>
-
-
-<h2 align="center"> To join "DEVs Dungeon" GitHub Organization, click <a href="https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization" >here</a> </h2>
- -->
