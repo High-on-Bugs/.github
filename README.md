@@ -1,7 +1,7 @@
 
 
 <div align=center>
-    <img width="200px" src="./Smoke Phone Wallpaper.png" />
+    <img width="200px" src="./Smoke Phone Wallpaper.png" style="border-radius: 50%"/>
 </div>
 
 
